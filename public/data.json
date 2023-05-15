@@ -8,7 +8,7 @@
     "price": "120",
     "cz_name": "Hommos s arabským chlebem",
     "en_name": "Hummus with arabic bread",
-    "img": "Humus musabaha.jpg",
+    "img": "Humus.jpg",
     "isVegan": true
   },
   {
@@ -32,7 +32,7 @@
     "price": "195",
     "cz_name": "Hommos falafel",
     "en_name": "Hummus falafel",
-    "img": "Humus musabaha.jpg",
+    "img": "Humus falafel.jpg",
     "isVegan": true
   },
   {
@@ -56,7 +56,7 @@
     "price": "190",
     "cz_name": "Hommos se smaženými vejci",
     "en_name": "Hummus with fried eggs",
-    "img": "Humus s kurecim.jpg",
+    "img": "Humus vejce.jpg",
     "isVegan": true
   },
   {
@@ -68,7 +68,7 @@
     "price": "210",
     "cz_name": "Hommos s kuřecí šawarmou",
     "en_name": "Hummus with chicken shawarma",
-    "img": "Humus s kurecim.jpg",
+    "img": "Humus Shawerma.jpg",
     "isVegan": false
   },
   {
@@ -92,7 +92,7 @@
     "price": "210",
     "cz_name": "Hommos Falafel Menu",
     "en_name": "Hummus Falafel Meal",
-    "img": "Humus falafel.jpg",
+    "img": "Humus falafel Meal.jpg",
     "isVegan": true
   },
   {
@@ -116,7 +116,7 @@
     "price": "170",
     "cz_name": "Falafel v arabském chlebu",
     "en_name": "Falafel Sandwich",
-    "img": "Humus falafel.jpg",
+    "img": "Sandwitchs.jpg",
     "isVegan": true
   },
   {
@@ -128,7 +128,7 @@
     "price": "185",
     "cz_name": "kuřecí Šawarma v arabském chlebu",
     "en_name": "Chicken shawarma sandwich",
-    "img": "Humus s kurecim.jpg"
+    "img": "Sandwitchs.jpg"
   },
   {
     "id": "012",
@@ -139,7 +139,7 @@
     "price": "190",
     "cz_name": "Falafel Wrap",
     "en_name": "Falafel Wrap",
-    "img": "Humus falafel.jpg",
+    "img": "Tortila s falafelem.jpg",
     "isVegan": true
   },
   {
@@ -151,7 +151,7 @@
     "price": "200",
     "cz_name": "kuřecí Šawarma wrap",
     "en_name": "Chicken shawarma Warp",
-    "img": "Humus falafel.jpg"
+    "img": "Tortila s falafelem.jpg"
   },
   {
     "id": "014",
@@ -331,18 +331,18 @@
     "price": "70",
     "cz_name": "Baklava",
     "en_name": "Baklawa",
-    "img": "Nazah.jpg"
+    "img": "Baklava.jpg"
   },
   {
     "id": "030",
     "number": "30",
     "category": "5",
-    "en_description": "Goulash",
-    "cz_description": "Guláš",
+    "en_description": "Koulash",
+    "cz_description": "Kuláš",
     "price": "70",
-    "cz_name": "Guláš",
-    "en_name": "Goulash",
-    "img": "Nazah.jpg"
+    "cz_name": "Kuláš",
+    "en_name": "Koulash",
+    "img": "Kulaz.jpg"
   },
   {
     "id": "031",
@@ -364,7 +364,7 @@
     "price": "50",
     "cz_name": "Basbosa",
     "en_name": "Basbosa",
-    "img": "Nazah.jpg"
+    "img": "Basbusa.jpg"
   },
   {
     "id": "033",
@@ -419,7 +419,7 @@
     "price": "50",
     "cz_name": "Čaj (1 osobu)",
     "en_name": "Tea (1 Person)",
-    "img": "Nazah.jpg"
+    "img": "Caj.jpg"
   },
   {
     "id": "038",
@@ -430,7 +430,7 @@
     "price": "80",
     "cz_name": "Čaj (2 osoby)",
     "en_name": "Tea (2 People)",
-    "img": "Nazah.jpg"
+    "img": "Caj.jpg"
   },
   {
     "id": "039",
@@ -441,6 +441,17 @@
     "price": "120",
     "cz_name": "Čaj (4 osoby)",
     "en_name": "Tea (4 People)",
-    "img": "Nazah.jpg"
+    "img": "Caj.jpg"
+  },
+  {
+    "id": "040",
+    "number": "40",
+    "category": "6",
+    "en_description": "Ayran",
+    "cz_description": "Ajran",
+    "price": "50",
+    "cz_name": "Ajran",
+    "en_name": "Ayran",
+    "img": "Ajran.jpg"
   }
 ]
