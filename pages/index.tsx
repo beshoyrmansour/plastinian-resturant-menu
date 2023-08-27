@@ -195,8 +195,8 @@ export default function Home({ data }: { data: MenuItem[] }) {
         <div className={styles.footer_top}>
           <div className={styles.footer_top_section}>
             <h3>
-              {lang === "en" ? "Find" : "Nalézt"}{" "}
-              <span>{lang === "en" ? "us" : "nám"}</span>
+              {lang === "en" ? "Find" : "Kde nás"}{" "}
+              <span>{lang === "en" ? "us" : "najdete"}</span>
             </h3>
             <div className={styles.social}>
               <a
@@ -239,7 +239,7 @@ export default function Home({ data }: { data: MenuItem[] }) {
             </div>
             <div className={styles.footer_top_section}>
               <h3>
-                {lang === "en" ? "Working" : "Pracovní"}{" "}
+                {lang === "en" ? "Working" : "Otevírací"}{" "}
                 <span>{lang === "en" ? "hours:" : "doba"}</span>
               </h3>
               <table itemProp="openingHours">
